@@ -1,2 +1,3 @@
 # Projet-d-intelligence-artificielle
 Ici ce trouve mes projet d'IA fait dans googleColab
+chaque fichier individuel contien des projets de d'IA, par exemple un projet de detection de peau...
